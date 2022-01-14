@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d703426.css",
+    "main.js": "/static/js/main.ace72d51.js",
+    "static/media/imageBanner.bmp": "/static/media/imageBanner.11af323c595bdfa988bc.bmp",
+    "static/media/yellowDress.png": "/static/media/yellowDress.a550b1f560fda89e9287.png",
+    "static/media/dress01.png": "/static/media/dress01.923c9a9ccebb6cce78f5.png",
+    "static/media/dress02.png": "/static/media/dress02.db4a43255733e50a2272.png",
+    "static/media/modalImage.png": "/static/media/modalImage.50e86e47e98f7e90af6c.png",
+    "static/media/zara.bmp": "/static/media/zara.f087286677b4d437b9e2.bmp",
+    "static/media/forever21.bmp": "/static/media/forever21.de62ceffb21b23278b19.bmp",
+    "static/media/annTaylor.bmp": "/static/media/annTaylor.aaff5f143179b4288d06.bmp",
+    "static/media/comma.bmp": "/static/media/comma.2185868f86d492361447.bmp",
+    "static/media/melissa.bmp": "/static/media/melissa.42055fdb7f16c4f9a949.bmp",
+    "static/media/dressIcon.png": "/static/media/dressIcon.791786342583fea70818.png",
+    "static/media/account.png": "/static/media/account.c920752422c11377083e.png",
+    "static/media/heart.png": "/static/media/heart.f9771d551704d5c56238.png",
+    "index.html": "/index.html",
+    "main.2d703426.css.map": "/static/css/main.2d703426.css.map",
+    "main.ace72d51.js.map": "/static/js/main.ace72d51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d703426.css",
+    "static/js/main.ace72d51.js"
+  ]
+}
