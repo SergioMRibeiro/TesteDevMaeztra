@@ -1,0 +1,75 @@
+.rec.rec-pagination:enabled{
+    color:rgb(255, 255, 255);
+    background-color: white;
+    box-shadow: 0 0 2px 0px #fff; 
+}
+.rec.rec-pagination:disabled{
+    color:rgb(255, 255, 255);
+    background-color: white;
+    box-shadow: 0 0 2px 0px #fff; 
+}
+
+.rec.rec-dot_active:enabled,
+.rec.rec-dot{
+    color:white;
+    background-color: white;
+    border:white 1px solid;
+    box-shadow: 0 0 2px 0px #fff; 
+}
+
+.rec.rec-arrow:disabled { 
+    /* visibility: hidden;  */
+    color:rgb(255, 255, 255);
+    background-color: white;
+    box-shadow: 0 0 2px 0px #fff; 
+    @media(max-width: 768px) {
+        background-color: white;
+        box-shadow:white;
+        border:white 1px solid;
+        box-shadow: 0 0 2px 0px #fff; 
+    }
+}
+
+.rec.rec-arrow-left:hover:enabled,
+.rec.rec-arrow-right:hover:enabled{
+    background-color: white;
+    border:white 1px solid;
+    box-shadow: 0 0 2px 0px #fff; 
+    @media(max-width:768px){
+        background-color: white;
+        box-shadow:white;
+        border:white 1px solid;
+        box-shadow: 0 0 2px 0px #fff; 
+    }
+}
+
+.rec.rec-arrow-left{
+    background-color: rgb(255, 255, 255);
+    box-shadow:white;
+    border:white 1px solid;
+    box-shadow: 0 0 2px 0px #fff; 
+    
+}
+
+.rec.rec-arrow-right{
+    background-color: white;
+    box-shadow: 0 0 2px 0px #fff; 
+    border:white 1px solid;
+}
+
+.rec.rec-arrow-left:enabled,
+.rec.rec-arrow-right:enabled{
+    color:rgb(245, 245, 245);
+    background-color: white;
+    box-shadow:white;
+    border:white 1px solid;
+    box-shadow: 0 0 2px 0px #fff; 
+
+    
+}
+@media only screen and (min-width: 600px) {
+    .rec.rec-arrow-left:enabled,
+    .rec.rec-arrow-right:enabled{
+    color:rgb(0, 0, 0);
+    }
+} 

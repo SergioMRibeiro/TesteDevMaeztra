@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: 'Titillium Web', 'Montserrat' , sans-serif;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1, h2, h3, h4 {
+  margin: 0%;
+}
+
+::-webkit-scrollbar{
+  width: 9px;
+  height: 9px;
+  }
+::-webkit-scrollbar-thumb{
+  background: #EDEDED;
+  border: 2px solid #ADADAD;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover{
+  background: #CFCDCD;
+}
+::-webkit-scrollbar-track{
+  background: #FFFFFF;
+  border-radius: 10px;
+  box-shadow: inset 0px 0px 0px 0px #F0F0F0;
+}
